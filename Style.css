@@ -1,0 +1,14 @@
+table{border: 1px solid black;
+width: 100%;}
+th{border: 1px solid black;
+background-color: white;}
+tr{border: 1px solid black;}
+
+body{background-color: white;}
+
+table{background-color: black;}
+
+
+
+tr:nth-child(odd){ background-color: red;}
+tr:nth-child(even){ background-color: yellow;}
